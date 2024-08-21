@@ -1,31 +1,131 @@
 {
     "DOWNLOAD_TAG_VER": "v2.3.4",
     "META": {
-        "TITLE": "Example Title",
-        "AUTHOR": "Example Author",
-        "DESCRIPTION": "Example Description",
-        "ICON_URL": "favicon.png",
+        "TITLE": "Slimbeezy86",
+        "AUTHOR": "Slimbeezy86",
+        "DESCRIPTION": "Gamer Dad / 420 Friendly",
+        "ICON_URL": "favicon.jpeg",
         "THEME": "dark"
     },
     "BIO": {
-        "ICON_URL": "icon.png",
-        "TITLE": "Example Title",
-        "DESCRIPTION": "Example Description",
-        "FOOTER": "Example Footer"
+        "ICON_URL": "icon.jpeg",
+        "TITLE": "Slimbeezy86",
+        "DESCRIPTION": "Gamer Dad / 420 Friendly / Music / Red Bulls / ADHD / Dad Life / Dad Jokes / September Baby / Simulator Gamer / FPS / RPG / Hunting / Outdoor Life / Trophy Fisherman / Banjo Player",
+        "FOOTER": "Your Beautiful Your Amazing Your Worth it- Never Forget That??"
     },
     "BASE_SHORT_URL": "",
     "ENABLE_REDIRECTS": true,
     "LINKS": [
         {
-            "brand": "github",
-            "icon": "github",
-            "name": "GitHub",
-            "link": "/github",
+            "brand": "twitch",
+            "icon": "twitch",
+            "name": "Twitch",
+            "link": "/tv",
             "redirects":
             [
                 {
-                    "src": "/github",
-                    "dest": "https://github.com/xstar97",
+                    "src": "/tv",
+                    "dest": "https://www.twitch.tv/slimbeezy86",
+                    "code": 308
+                },
+                {
+                    "src": "/twitch",
+                    "dest": "https://www.twitch.tv/slimbeezy86",
+                    "code": 308
+                }
+            ]
+        },
+        {
+            "brand": "tiktok",
+            "icon": "tiktok",
+            "name": "TikTok",
+            "link": "/tk",
+            "redirects":
+            [
+                {
+                    "src": "/tk",
+                    "dest": "https://www.tiktok.com/@slimbeezy2",
+                    "code": 308
+                },
+                {
+                    "src": "/tiktok",
+                    "dest": "https://www.tiktok.com/@slimbeezy2",
+                    "code": 308
+                }
+            ]
+        },
+        {
+            "brand": "twit",
+            "icon": "twitter",
+            "name": "Twitter",
+            "link": "/tw",
+            "redirects":
+            [
+                {
+                    "src": "/tw",
+                    "dest": "https://twitter.com/SlimBeezy8686",
+                    "code": 308
+                },
+                {
+                    "src": "/twitter",
+                    "dest": "https://twitter.com/SlimBeezy8686",
+                    "code": 308
+                }
+            ]
+        },
+        {
+            "brand": "faceb",
+            "icon": "facebook",
+            "name": "FaceBook",
+            "link": "/fb",
+            "redirects":
+            [
+                {
+                    "src": "/fb",
+                    "dest": "https://www.facebook.com/slimbeezy86.gaming.twitch",
+                    "code": 308
+                },
+                {
+                    "src": "/facebook",
+                    "dest": "https://www.facebook.com/slimbeezy86.gaming.twitch",
+                    "code": 308
+                }
+            ]
+        },
+        {
+            "brand": "cash-app",
+            "icon": "cash-app-dollar",
+            "name": "Cash App",
+            "link": "/cash",
+            "redirects":
+            [
+                {
+                    "src": "/cash",
+                    "dest": "https://cash.app/$SlimBeezy8612",
+                    "code": 308
+                },
+                {
+                    "src": "/cash-app",
+                    "dest": "https://cash.app/$SlimBeezy8612",
+                    "code": 308
+                }
+            ]
+        },
+        {
+            "brand": "web",
+            "icon": "generic-website",
+            "name": "Merch",
+            "link": "/merch",
+            "redirects":
+            [
+                {
+                    "src": "/cash",
+                    "dest": "https://slimbeezy86-shop.fourthwall.com/?source=dashboard",
+                    "code": 308
+                },
+                {
+                    "src": "/cash-app",
+                    "dest": "https://slimbeezy86-shop.fourthwall.com/?source=dashboard",
                     "code": 308
                 }
             ]
