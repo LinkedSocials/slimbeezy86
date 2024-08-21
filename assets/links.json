@@ -120,12 +120,12 @@
             [
                 {
                     "src": "/cash",
-                    "dest": "https://slimbeezy86-shop.fourthwall.com/?source=dashboard",
+                    "dest": "https://slimbeezy86-shop.fourthwall.com",
                     "code": 308
                 },
                 {
                     "src": "/cash-app",
-                    "dest": "https://slimbeezy86-shop.fourthwall.com/?source=dashboard",
+                    "dest": "https://slimbeezy86-shop.fourthwall.com",
                     "code": 308
                 }
             ]
